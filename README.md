@@ -1,3 +1,5 @@
+<img width="1701" height="1701" alt="Trista DPI 2026_0 9 2" src="https://github.com/user-attachments/assets/bfe6dbf9-7e44-484d-9c65-97f7b283b9ae" />
+
 # Trista DPI 2026
 
 Форк классического скрипта Trista DPI для пакетной обработки растровых
